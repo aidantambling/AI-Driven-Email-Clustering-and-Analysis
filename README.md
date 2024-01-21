@@ -1,13 +1,13 @@
-# AI-Driven Email Clustering and Analysis
+# EmailSift: AI-Driven Email Clustering and Analysis
 
 ## Overview
-AI-Driven Email Clustering and Analysis is a machine learning project aimed at organizing and understanding large collections of email data. By employing advanced clustering techniques, this project categorizes emails into meaningful groups, enabling easier navigation, retrieval, and analysis of large email datasets.
+EmailSift is an unsupervised machine learning project which seeks to organize and interpret emails according to the content of their body. Advanced clustering techniques, using a K-Means approach, helps the model categorize emails into meaningful groups, enabling easier navigation and interpretation of email datasets.
 
 ## Features
-- **Email Parsing:** Extracts key components of emails including 'from', 'to', and 'body'.
-- **TF-IDF Vectorization:** Converts email content into numerical format for machine learning processing.
+- **Email Parsing:** Extracts key components of emails including sender, recipient, and body.
+- **TF-IDF Vectorization:** Converts email body content into numerical format for machine learning processing.
 - **K-Means Clustering:** Groups emails into clusters based on content similarity.
-- **Performance Evaluation:** Uses metrics like Silhouette Score, Cohesion, and Separation to assess the quality of clustering.
+- **Performance Evaluation:** Uses metrics like Silhouette Score, Separation, Cohesion, and Centroid distances to assess the quality of clustering.
 - **Scalability:** Handles large datasets efficiently by splitting and processing in manageable parts.
 
 ## Installation
