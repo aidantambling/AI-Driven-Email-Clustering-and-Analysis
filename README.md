@@ -63,4 +63,4 @@ For any queries regarding this project, please contact:
 - Project Link: https://github.com/aidantambling/AI-Driven-Email-Clustering-and-Analysis
 
 ## Final Project Report
-For a detailed overview of the project, including the motivation, implementation specifics, and comprehensive performance analysis, refer to our [Final Project Report](Link-to-report).sd
+For a detailed overview of the project, including the motivation, implementation specifics, and comprehensive performance analysis, refer to our [Final Project Report](tambling_majumder_report.pdf)
